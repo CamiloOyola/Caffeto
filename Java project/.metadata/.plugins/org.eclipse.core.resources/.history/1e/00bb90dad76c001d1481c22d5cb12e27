@@ -1,0 +1,5 @@
+package es.caffeto.spring.mvc;
+
+public @interface RequestMapping {
+
+}

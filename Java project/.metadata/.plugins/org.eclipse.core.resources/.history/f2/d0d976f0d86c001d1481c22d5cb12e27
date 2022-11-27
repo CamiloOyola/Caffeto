@@ -1,0 +1,5 @@
+package caffeto.spring.mvc;
+
+public class Controller {
+
+}

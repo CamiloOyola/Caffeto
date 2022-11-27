@@ -1,0 +1,21 @@
+package es.caffeto.spring.mvc;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+
+public class Controlador {
+	
+	
+	@RequestMapping
+	
+	public String muestrapag() {
+		
+		
+		return "pagina";
+		
+	}
+
+	
+	
+}
