@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author joseo
- *
- */
-module d {
-}
